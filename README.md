@@ -1,3 +1,4 @@
+
 # 🏠 NhaTro Chain - DApp Quản lý Nhà Trọ Blockchain
 
 > Hệ thống quản lý nhà trọ phi tập trung trên Ethereum — thuê phòng & thanh toán ETH trực tiếp qua Smart Contract.
@@ -226,3 +227,6 @@ Mở trình duyệt tại: **http://localhost:3000**
 - **Web3 Library**: ethers.js v6
 - **Wallet**: MetaMask
 - **Local Blockchain**: Hardhat Node / Ganache
+=======
+
+
